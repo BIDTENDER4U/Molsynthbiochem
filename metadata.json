@@ -1,0 +1,8 @@
+{
+  "name": "Molsynth Biochem - Analytical Solutions & Laboratory Consumables",
+  "description": "Official portal of Molsynth Biochem LLP, India's trusted importer and distributor of HPLC consumables, precision vials, laboratory glassware, filtration supplies, and scientific instrumentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
